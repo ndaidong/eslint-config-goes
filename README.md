@@ -1,4 +1,4 @@
-# eslint-config-googext
+# eslint-config-goes
 Google's JavaScript style mixed with ESLint recommended rules
 
 [![NPM](https://badge.fury.io/js/eslint-config-goes.svg)](https://badge.fury.io/js/eslint-config-goes)
