@@ -1,0 +1,32 @@
+{
+  "name": "eslint-config-goes",
+  "version": "0.0.1",
+  "description": "ESLint shareable config with Google JS style and ESLint recommended rules",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ndaidong/eslint-config-goes.git"
+  },
+  "author": "@ndaidong",
+  "main": "index.js",
+  "engines": {
+    "node": ">= 6.0"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "test": "npm run lint && tape test/start.js | tap-spec"
+  },
+  "devDependencies": {
+    "bellajs": "^7.2.0",
+    "eslint": "^4.12.0",
+    "eslint-config-google": "^0.9.1",
+    "tap-spec": "^4.1.1",
+    "tape": "^4.8.0"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "shareable-configs",
+    "linter"
+  ],
+  "license": "MIT"
+}
