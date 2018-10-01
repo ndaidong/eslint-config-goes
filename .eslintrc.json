@@ -45,7 +45,14 @@
         "ignoreUrls": true
       }
     ],
-    "no-unused-vars": 1,
+    "no-unused-vars": [
+      "error",
+      {
+        "vars": "all",
+        "args": "after-used",
+        "ignoreRestSiblings": false
+      }
+    ],
     "no-use-before-define": [
       "error",
       {
