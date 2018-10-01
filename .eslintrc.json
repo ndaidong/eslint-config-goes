@@ -25,6 +25,17 @@
       }
     ],
     "function-paren-newline": 0,
+    "indent": [
+      "error",
+      2,
+      {
+        "MemberExpression": 1,
+        "FunctionDeclaration": {
+          "body": 1,
+          "parameters": 2
+        }
+      }
+    ],
     "max-len": [
       "error",
       {

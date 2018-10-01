@@ -28,12 +28,12 @@ test('Testing Shareable Config  object:', (assert) => {
   });
 
   assert.ok(
-      config.extends.includes('eslint:recommended'),
-      `config.extends value must include Eslint recommended rules`
+    config.extends.includes('eslint:recommended'),
+    `config.extends value must include Eslint recommended rules`
   );
   assert.ok(
-      config.extends.includes('google'),
-      `config.extends value must include Google style`
+    config.extends.includes('google'),
+    `config.extends value must include Google style`
   );
   assert.end();
 });
