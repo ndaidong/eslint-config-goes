@@ -33,7 +33,8 @@
         "FunctionDeclaration": {
           "body": 1,
           "parameters": 2
-        }
+        },
+        "SwitchCase": 1
       }
     ],
     "max-len": [
