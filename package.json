@@ -17,7 +17,7 @@
     "test": "tap test/start.js --coverage --reporter=spec"
   },
   "dependencies": {
-    "eslint": "^6.0.1",
+    "eslint": "^6.1.0",
     "eslint-config-google": "^0.13.0"
   },
   "devDependencies": {
