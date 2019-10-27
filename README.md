@@ -3,6 +3,7 @@ Google's JavaScript style mixed with ESLint recommended rules
 
 [![NPM](https://badge.fury.io/js/eslint-config-goes.svg)](https://badge.fury.io/js/eslint-config-goes)
 [![Build Status](https://travis-ci.org/ndaidong/eslint-config-goes.svg?branch=master)](https://travis-ci.org/ndaidong/eslint-config-goes)
+[![Coverage Status](https://coveralls.io/repos/github/ndaidong/eslint-config-goes/badge.svg?branch=dev)](https://coveralls.io/github/ndaidong/eslint-config-goes?branch=dev)
 
 
 # Usage
