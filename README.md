@@ -11,14 +11,14 @@ Google's JavaScript style mixed with ESLint recommended rules
 
 In order to use this shareable config you have to install the package "eslint-config-goes" into your project:
 
-```
+```bash
 npm i -D eslint-config-goes
 ```
 
 Then, create ESLint config file named ".eslintrc.json" (or edit if it exists). The content is short as below:
 
 *.eslintrc.json*
-```
+```json
 {
   "extends": "eslint-config-goes"
 }
