@@ -2,8 +2,9 @@
 Google's JavaScript style mixed with ESLint recommended rules
 
 [![NPM](https://badge.fury.io/js/eslint-config-goes.svg)](https://badge.fury.io/js/eslint-config-goes)
-[![Build Status](https://travis-ci.org/ndaidong/eslint-config-goes.svg?branch=master)](https://travis-ci.org/ndaidong/eslint-config-goes)
-[![Coverage Status](https://coveralls.io/repos/github/ndaidong/eslint-config-goes/badge.svg?branch=dev)](https://coveralls.io/github/ndaidong/eslint-config-goes?branch=dev)
+![CI test](https://github.com/ndaidong/eslint-config-goes/workflows/ci-test/badge.svg)
+[![Coverage Status](https://coveralls.io/repos/github/ndaidong/eslint-config-goes/badge.svg)](https://coveralls.io/github/ndaidong/eslint-config-goes)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ndaidong_eslint-config-goes&metric=alert_status)](https://sonarcloud.io/dashboard?id=ndaidong_eslint-config-goes)
 
 
 # Usage
