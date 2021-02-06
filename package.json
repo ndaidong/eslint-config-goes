@@ -14,7 +14,7 @@
   "scripts": {
     "lint": "eslint .",
     "pretest": "npm run lint",
-    "test": "tap test/start.js --coverage --reporter=spec"
+    "test": "jest --verbose --coverage=true --unhandled-rejections=strict"
   },
   "dependencies": {
     "eslint": "7.19.0",
@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "bellajs": "^9.2.2",
-    "tap": "^14.11.0"
+    "jest": "^26.6.3"
   },
   "keywords": [
     "eslint",
